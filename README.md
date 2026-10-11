@@ -1,5 +1,10 @@
 FA 5 – Linear Models
 
+Contents
+FA5_Linear_Models.R – R code for the statistical analyses.
+FA5_Linear_Models.pdf – Final report containing the results, graphs, tables, and interpretations.
+penguins.csv – Dataset used in the analysis.
+
 Project Overview
 This project analyzes penguin body mass according to species and sex using the Palmer Penguins dataset.
 
