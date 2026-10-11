@@ -1,5 +1,6 @@
 FA 5 – Linear Models
 
+
 Contents
 
 FA5_Linear_Models.R – R code for the statistical analyses.
@@ -7,6 +8,7 @@ FA5_Linear_Models.R – R code for the statistical analyses.
 FA5_Linear_Models.pdf – Final report containing the results, graphs, tables, and interpretations.
 
 penguins.csv – Dataset used in the analysis.
+
 
 Project Overview
 
@@ -26,7 +28,10 @@ Key Findings
 - The difference in body mass between males and females varies by species.
 
 Dataset Source
+
 Palmer Penguins dataset: https://github.com/allisonhorst/palmerpenguins
 
+
 Conclusion
+
 The results show that both species and sex are associated with penguin body mass. Their combined relationship also affects the differences observed in body mass.
